@@ -1,0 +1,8 @@
+# raspberry pi gpio
+RPi.GPIO
+
+# wiringpi
+wiringpi
+
+# tm1637 chip
+raspberrypi-python-tm1637
